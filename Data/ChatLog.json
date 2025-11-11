@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "Play audio."
+    },
+    {
+        "role": "assistant",
+        "content": "There is no audio available to play. The search results for 'Play audio' are empty."
+    }
+]

@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+
+# Secret API Keys
+.env
+
+# Temporary Python files
+__pycache__/
+
+# Temporary status files
+Frontend/Files/*.data
+Data/ChatLog.json
